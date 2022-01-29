@@ -1,0 +1,1 @@
+test Szyfru $# VIGENERE #$ ktory pomija %% WIELKIE %% litery i BLEDNE zn@ki! 123
